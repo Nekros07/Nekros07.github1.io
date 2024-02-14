@@ -1,0 +1,144 @@
+body {
+    background-color: lightpink;
+    font-family: Verdana;
+}
+
+video {
+    display: inline-block;
+    width: 180px;
+    height: 240px;
+    border: 3px solid lightcoral;
+}
+.WillUBe {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.Hehe {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.Hehe2 {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.Set {
+    text-align: center;
+    margin-top: 7%;
+}
+
+.IMG {
+    display: inline-block;
+    position: relative;
+    border: 3px solid lightcoral;
+    width: 300px;
+    height: 250px;
+
+}
+
+.IMG2 {
+    display: inline-block;
+    border: 3px solid lightcoral;
+    width: 300px;
+    height: 350px;
+    margin-left: 1%;    
+}
+
+
+.Click {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: white;
+    border: 3px solid lightcoral;
+    border-radius: 7px;
+    width: 100px;
+    padding: 3px;
+}
+
+.Click a {
+    color: black;
+    text-decoration: none;
+}
+
+.Click:hover {
+    background-color:rgb(250, 223, 227);
+}
+
+
+.Click2 {
+    display: inline-block;
+    margin-top: 5px;
+    background-color: white;
+    border: 3px solid lightcoral;
+    border-radius: 7px;
+    width: 125px;
+    padding: 7px;
+}
+
+.Click2 a {
+    color: black;
+    text-decoration: none;
+}
+
+.Click2:hover {
+    background-color:rgb(250, 223, 227);
+}
+
+.Click3 {
+    display: inline-block;
+    margin-top: 5px;
+    background-color: white;
+    border: 3px solid lightcoral;
+    border-radius: 7px;
+    width: 150px;
+    padding: 7px;
+}
+
+.Click3 a {
+    color: black;
+    text-decoration: none;
+}
+
+.Click3:hover {
+    background-color:rgb(250, 223, 227);
+}
+.YES {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: rgb(154, 255, 154);
+    border: 3px solid white;
+    border-radius: 7px;
+    width: 70px;
+    padding: 3px;
+}
+
+.YES a {
+    color: black;
+    text-decoration: none;
+}
+
+.YES:hover {
+    background-color: rgb(194, 255, 194);
+}
+
+.NO {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: lightcoral;
+    border: 3px solid white;
+    border-radius: 7px;
+    width: 70px;
+    padding: 3px;
+    margin-left: 30px;
+}
+
+.NO a {
+    color: black;
+    text-decoration: none;
+}
+
+.NO:hover {
+    background-color: rgb(250, 150, 150);
+}
